@@ -20,3 +20,20 @@
 - 📫 Caso se interesse pelo meu trabalho ou simplesmente queira entrar em contato comigo deixo abaixo o link do meu LinkedIn, bem como meu e-mail pessoal:
 - LinkedIn page: https://www.linkedin.com/in/jos%C3%A9-augusto-santos-180a9313b/
 - E-mail: joseaugustoopsantos@gmail.com
+
+<div>
+  <a href="https://github.com/joseaugustosantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseaugustosantos&theme=dark&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseaugustosantos&layout=compact&langs_count=16&theme=transparent"/>
+<div>
+
+<div style="display: inline_block">
+<img align="center" alt="Jose-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="Jose-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="center" alt="Jose-DBeaver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+<img align="center" alt="Jose-R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+
+
+
+
+          
