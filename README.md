@@ -17,9 +17,10 @@
 
 - Importante dizer que sugestão de melhorias e críticas construtivas serão sempre bem-vindas por aqui!
 
-- 📫 Caso se interesse pelo meu trabalho ou simplesmente queira entrar em contato comigo deixo abaixo o link do meu LinkedIn, bem como meu e-mail pessoal:
-- LinkedIn page: https://www.linkedin.com/in/jos%C3%A9-augusto-santos-180a9313b/
-- E-mail: joseaugustoopsantos@gmail.com
+- 📫 Caso se interesse pelo meu trabalho ou simplesmente queira entrar em contato comigo, no final desse perfil estão os ícones tanto do meu LinkedIn, quanto do meu e-mail pessoal.
+Ao clicar em qualquer um deles, você vai ser direcionado para falar comigo.
+
+- Espero você!
 
 <div>
   <a href="https://github.com/joseaugustosantos">
